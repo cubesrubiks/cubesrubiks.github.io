@@ -738,6 +738,9 @@ body {
 	#portfolio .container {
 		min-height: 500px;
 	}
+	.mr {
+		display: flex;
+		justify-content: center;
 }
 @media screen and (max-width: 576px) {
 	#home .col-xl-1 {
